@@ -1,0 +1,8 @@
+
+VC_2022_REDIST_X64 ID=Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_amd64,v14
+Visual C++ 2015-2022 x64 - 14.34.31931
+**** NOT INSTALLED ****
+Installation file is on: http://wampserver.aviatechno.net
+VC 2015-2022 (VC17 x64) 14.34.31931
+----------------------------------------
+
